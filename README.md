@@ -7,15 +7,20 @@ You can see the Dashboard here - **[Tableau Dashboard](https://public.tableau.co
 
 
 ## 📖Table of Contents
+
 - [Introduction](#introduction)
 - [Tools & Datasets Used](#tools-&-datasets-used)
 - [Methodology](#methodology)
 - [Documentation](#documentation)
 
+
 ## ⭐Introduction
+
 Kickstarter is a crowdfunding platform where creators launch independent projects and seek financial support from the public. Funding is all-or-nothing; backers are only charged if a project meets its goal by the deadline. This project aims to uncover trends behind successfully funded Kickstarter campaigns and explore how project creation patterns evolve throughout the year.
 
+
 ## 🛠️Tools & Datasets Used
+
 **Excel:** Power Query for Data Cleaning and Manipulation.
 
 **Tableau:**  Dashboard Building.
@@ -23,7 +28,9 @@ Kickstarter is a crowdfunding platform where creators launch independent project
 **🗒️[Datasets](https://drive.google.com/uc?export=download&id=1libz82_4g2suswoXgAM-UVbkxsqeNnB1):**  Access to project datasets(csv files)
 This is a cleaned Dataset.
 
+
 ## 🗂️Methodology
+
 The project followed a structured data analysis and visualization workflow:
 
 **1. Understanding the Objective**
@@ -62,7 +69,9 @@ The project followed a structured data analysis and visualization workflow:
    - Compared the mockup with the final Tableau dashboard to highlight improvements and design choices made during implementation.
    - All visualizations and filters are labeled clearly to ensure interpretability for stakeholders.
 
+
 ## 🔍Insights Findings
+
 From the Dashboard, we were able to find the following answers:
 
 ### 🎯Success Factors
@@ -86,6 +95,7 @@ From the Dashboard, we were able to find the following answers:
 
 - **Top-Earning Categories:** Product Design(21.40%) and Tabletop Games(14.29%) lead in total funds raised.
 - **Average Pledged Amounts:** Successfully funded projects tend to exceed their goals by 20–30%.
+
 
 ### 📅 Seasonal Trends
 
