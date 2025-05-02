@@ -6,7 +6,7 @@ This repository contains a project demonstrating an Overview of the Kickstarter 
 
 ## 📖Table of Contents
 - [Introduction](#introduction)
-- [Tools Used](#tools-used)
+- [Tools & Datasets Used](#tools-&-datasets-used)
 - [Methodology](#methodology)
 - [Documentation](#documentation)
 
@@ -19,6 +19,8 @@ Kickstarter is a crowdfunding platform where creators launch independent project
 **Tableau:**  Dashboard Building
 
 **🗒️[Datasets](https://drive.google.com/uc?export=download&id=1libz82_4g2suswoXgAM-UVbkxsqeNnB1):**  Access to project datasets(csv files)
+This is a cleaned Dataset.
 
-## Meth
+
+
 
