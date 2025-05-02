@@ -1,4 +1,4 @@
-# Kickstarter Crowdfunding Analysis & Insights Dashboard in Tableau. 📊
+# Kickstarter Crowdfunding Analysis & Insights Dashboard in Tableau📊
 Welcome to the **Kickstarter Crowdfunding Analysis with Tableau** repository! 🚀
 
 This repository contains a project demonstrating an Overview of the Kickstarter Crowdfunding Platform using Tableau. Developed as part of my data analytics portfolio, it highlights my ability to transform raw data into meaningful insights and visually compelling stories using Tableau.
