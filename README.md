@@ -21,25 +21,25 @@ Kickstarter is a crowdfunding platform where creators launch independent project
 **🗒️[Datasets](https://drive.google.com/uc?export=download&id=1libz82_4g2suswoXgAM-UVbkxsqeNnB1):**  Access to project datasets(csv files)
 This is a cleaned Dataset.
 
-## Methodology
+## 🗂️Methodology
 The project followed a structured data analysis and visualization workflow:
 
-1. Understanding the Objective
+**1. Understanding the Objective**
    
    The key goal was to analyze Kickstarter project trends, success rates, and funding behaviors across time and categories.
 
-2. Data Preparation (Excel + Power Query)
+**2. Data Preparation (Excel + Power Query)**
 
    - Imported raw Kickstarter data into Excel.
    - Cleaned and transformed the dataset using Power Query (e.g., removed duplicates, standardized column formats, filtered irrelevant records).
    - Created new time-based fields like Year, Quarter, and Month for time series analysis.
 
-3. Exploratory Data Analysis (EDA)
+**3. Exploratory Data Analysis (EDA)**
 
    - Explored patterns in project categories, launch dates, and funding outcomes.
    - Identified success trends based on goal amount, category, and time.
 
-4. Dashboard Development (Tableau)
+**4. Dashboard Development (Tableau)**
 
    - Built dynamic KPI cards for metrics such as total raised amount, success rate, and project counts.
    - Created interactive charts:
@@ -48,7 +48,7 @@ The project followed a structured data analysis and visualization workflow:
            - A donut chart for the success percentage
    - Implemented parameter-based filtering for Year, Quarter, and Month for dynamic exploration.
      
-5. Insight Generation
+**5. Insight Generation**
 
    - Analyzed dashboards to draw meaningful conclusions on what makes a campaign successful.
    - Observed seasonality, popular categories, and goal amount ranges that impact success.
