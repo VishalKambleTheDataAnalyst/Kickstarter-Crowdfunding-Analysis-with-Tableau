@@ -94,7 +94,17 @@ From the Dashboard, we were able to find the following answers:
 
 ## 📂Repository Structure
 ```
-
+Kickstarter-Crowdfunding-Analysis/
+├── 📁 Dashboard/
+│   └── Kickstarter_Project_Tableau_Vishal(Charts+Dashboard).twbx
+├── 📁 resources/
+│   ├── kickstarter logo.png
+│   └── 📁 Mockups/
+│       ├── Container mockup for Kickstarter Dashboard.drawio
+│       ├── Project Trends.png
+│       └── Success Insights.png
+├── LICENSE
+└── README.md
 
 
 
