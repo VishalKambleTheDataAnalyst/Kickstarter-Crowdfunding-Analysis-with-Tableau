@@ -60,6 +60,38 @@ The project followed a structured data analysis and visualization workflow:
    - Compared the mockup with the final Tableau dashboard to highlight improvements and design choices made during implementation.
    - All visualizations and filters are labeled clearly to ensure interpretability for stakeholders.
 
+## 🔍Insights Findings
+From the Dashboard, we were able to find the following answers:
+
+### 🎯Success Factors
+
+- **Goal Amount:**
+  
+     1. Projects with goals under $10,000 have the highest success rates(42% out of total successful projects).
+     2. Among backers who contributed between $1,000 and $10,000, 84% of the funding went to projects in the "Residencies" category, indicating strong support for that category within this funding range.
+ 
+- **Category:**
+  
+     1. The "Chiptune" (76%) and "Residencies" (74%) categories have the highest success rates, closely followed by "Anthologies" (70%), indicating the strongest success-to-campaign ratios among all categories.
+
+- **Time-Based Trends:**
+
+   - Success rates peak in Q2, particularly in April.
+   - On average, successful projects run 31 days from launch to deadline.
+
+
+### 💸 Funding Patterns
+
+- **Top-Earning Categories:** Product Design(21.40%) and Tabletop Games(14.29%) lead in total funds raised.
+- **Average Pledged Amounts:** Successfully funded projects tend to exceed their goals by 20–30%.
+
+### 📅 Seasonal Trends
+
+- More projects are launched in the year's first half, but not all perform equally.
+- Late Q4 campaigns show lower engagement and funding.
+   
+   
+
 ## 📂Repository Structure
 ```
 
