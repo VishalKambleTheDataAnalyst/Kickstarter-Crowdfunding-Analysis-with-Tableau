@@ -105,31 +105,3 @@ Kickstarter-Crowdfunding-Analysis/
 │       └── Success Insights.png
 ├── LICENSE
 └── README.md
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
