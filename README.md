@@ -12,11 +12,14 @@ You can see the Dashboard here - **[Tableau Dashboard](https://public.tableau.co
 - [Tools & Datasets Used](#tools-&-datasets-used)
 - [Methodology](#methodology)
 - [Documentation](#documentation)
+- [Insights Finding](#insights-finding)
+- [Repository Structure](#repository-structure)
 
 
 ## ⭐Introduction
 
 Kickstarter is a crowdfunding platform where creators launch independent projects and seek financial support from the public. Funding is all-or-nothing; backers are only charged if a project meets its goal by the deadline. This project aims to uncover trends behind successfully funded Kickstarter campaigns and explore how project creation patterns evolve throughout the year.
+
 
 ## 🛠️Tools & Datasets Used
 
@@ -26,6 +29,7 @@ Kickstarter is a crowdfunding platform where creators launch independent project
 
 **🗒️[Datasets](https://drive.google.com/uc?export=download&id=1libz82_4g2suswoXgAM-UVbkxsqeNnB1):**  Access to project datasets(csv files)
 This is a cleaned Dataset.
+
 
 ## 🗂️Methodology
 
@@ -60,7 +64,7 @@ The project followed a structured data analysis and visualization workflow:
    - Analyzed dashboards to draw meaningful conclusions on what makes a campaign successful.
    - Observed seasonality, popular categories, and goal amount ranges that impact success.
 
-## Documentation
+## 📄Documentation
 
    - The dashboard layout was designed to present insights in a clean, intuitive, and user-friendly format.
    - Included mockup files to showcase the initial design concepts and support decision-making throughout the dashboard development process.
