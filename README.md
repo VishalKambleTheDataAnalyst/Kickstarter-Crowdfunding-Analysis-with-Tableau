@@ -12,7 +12,7 @@ You can see the Dashboard here - **[Tableau Dashboard](https://public.tableau.co
 - [Tools & Datasets Used](#%EF%B8%8Ftools--datasets-used)
 - [Methodology](#%EF%B8%8Fmethodology)
 - [Documentation](#documentation)
-- [Insights Finding](#insights-finding)
+- [Insights Finding](#insights-findings)
 - [Repository Structure](#repository-structure)
 
 
