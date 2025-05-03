@@ -9,7 +9,7 @@ You can see the Dashboard here - **[Tableau Dashboard](https://public.tableau.co
 ## 📖Table of Contents
 
 - [Introduction](#introduction)
-- [Tools & Datasets Used](#tools-&-datasets-used)
+- [Tools & Datasets Used](#https://github.com/VishalKambleTheDataAnalyst/Kickstarter-Crowdfunding-Analysis-with-Tableau/tree/main?tab=readme-ov-file#%EF%B8%8Ftools--datasets-used)
 - [Methodology](#methodology)
 - [Documentation](#documentation)
 - [Insights Finding](#insights-finding)
