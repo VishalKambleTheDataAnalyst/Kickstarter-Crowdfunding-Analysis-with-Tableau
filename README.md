@@ -9,8 +9,8 @@ You can see the Dashboard here - **[Tableau Dashboard](https://public.tableau.co
 ## 📖Table of Contents
 
 - [Introduction](#introduction)
-- [Tools & Datasets Used](#tools--datasets-used)
-- [Methodology](#methodology)
+- [Tools & Datasets Used](#%EF%B8%8Ftools--datasets-used)
+- [Methodology](#%EF%B8%8Fmethodology)
 - [Documentation](#documentation)
 - [Insights Finding](#insights-finding)
 - [Repository Structure](#repository-structure)
