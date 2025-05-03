@@ -18,7 +18,6 @@ You can see the Dashboard here - **[Tableau Dashboard](https://public.tableau.co
 
 Kickstarter is a crowdfunding platform where creators launch independent projects and seek financial support from the public. Funding is all-or-nothing; backers are only charged if a project meets its goal by the deadline. This project aims to uncover trends behind successfully funded Kickstarter campaigns and explore how project creation patterns evolve throughout the year.
 
-
 ## 🛠️Tools & Datasets Used
 
 **Excel:** Power Query for Data Cleaning and Manipulation.
@@ -27,7 +26,6 @@ Kickstarter is a crowdfunding platform where creators launch independent project
 
 **🗒️[Datasets](https://drive.google.com/uc?export=download&id=1libz82_4g2suswoXgAM-UVbkxsqeNnB1):**  Access to project datasets(csv files)
 This is a cleaned Dataset.
-
 
 ## 🗂️Methodology
 
